@@ -1,7 +1,7 @@
 # Hi there! I'm Alexander Pakhomov 👋
 ### Python Backend Developer | IoT Engineer
 
-Backend-разработчик с опытом создания и поддержки систем автоматизации бизнес-процессов. Специализируюсь на интеграции программных решений с оборудованием (IoT) и выстраивании полного цикла разработки: от проектирования БД до контейнеризации и деплоя.
+Backend is a developer with experience in creating and maintaining business process automation systems. I specialize in integrating software solutions with hardware (IoT) and building a full development cycle: from database design to containerization and deployment.
 
 ---
 
